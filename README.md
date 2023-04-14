@@ -1,6 +1,6 @@
 ### Oláá!! Eu sou o Daniel Baima 👋
 
-<h5 align="left">Um futuro desenvolvedor frontend</h5>
+<h4 align="left">Um futuro desenvolvedor frontend</h4>
 <h5 align="left">🔭 Trabalhar futuramente com front-end</h5>
 <h5 align="left">🌱 Estudando Java, JavaScript, Python</h5>
 <h5 align="left">📫 Contate-me no e-mail: dbaimaa@gmail.com</h5>

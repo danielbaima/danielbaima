@@ -1,9 +1,9 @@
 ### Oláá!! Eu sou o Daniel Baima 👋
 
-<h3 align="left">Um futuro desenvolvedor frontend</h3>
-<h3 align="left">🔭 Trabalhar futuramente com front-end</h3>
-<h3 align="left">🌱 Estudando Java, JavaScript, Python</h3>
-<h3 align="left">📫 Contate-me no e-mail: dbaimaa@gmail.com</h3>
+<h5 align="left">Um futuro desenvolvedor frontend</h5>
+<h5 align="left">🔭 Trabalhar futuramente com front-end</h5>
+<h5 align="left">🌱 Estudando Java, JavaScript, Python</h5>
+<h5 align="left">📫 Contate-me no e-mail: dbaimaa@gmail.com</h5>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danielbaima&label=Profile%20views&color=0e75b6&style=flat" alt="danielbaima" /> </p>
 

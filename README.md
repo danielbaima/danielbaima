@@ -1,7 +1,7 @@
 ### Oláá!! Eu sou o Daniel Baima 👋
 
-<h1 align="center">Hi 👋, I'm Daniel Baima</h1>
-<h3 align="center">Um futuro desenvolvedor frontend</h3>
+<h1 align="left">Hi 👋, I'm Daniel Baima</h1>
+<h3 align="left">Um futuro desenvolvedor frontend</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danielbaima&label=Profile%20views&color=0e75b6&style=flat" alt="danielbaima" /> </p>
 

@@ -7,10 +7,6 @@
 
 <p align="left"> <img src="https ://komarev.com/ghpvc/?username=danielbaima&label=Profile%20views&color=0e75b6&style=flat" alt="danielbaima" /> </p> <h3 align=
 
-"left">Conecte-se comigo:</h3>
-< p align="left">
-<a href="https://fb.com/https://www.facebook.com/dbaima" target="blank"><img align="center" src="https: //raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/dbaima" height=" 30"largura="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/oliveiradbaima/" target="blank"><img align="center" src="https://raw.githubusercontent. com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/oliveiradbaima/" height="30" width=" 40" /></a>
 </p>
 
 <h3 align="left">Idiomas e ferramentas:</h3>
